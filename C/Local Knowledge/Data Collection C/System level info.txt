@@ -1,0 +1,16 @@
+HAL
+Related to ECU, actuators, sensors
+- Containing functionalities dose to the hardware:
+	Rading of raw sensor signals, ECU related functions like memory protection and watchdogs, operating system, setting the actuators
+
+SAL
+related to Failsafe functions, HCU, valves
+- Containing system functions :
+	Sensor signal filtering and monitoring, arbitration of internal actuator requests, HCU and valve control,
+	CODEG system state handling, PCB integration for IPB-Xchange
+FAL
+related to Control functions and extended control functions -> ABS, TCS, ESC, HBA, HSA
+	Containing control functions (ABS,TCS...) and external actuator request arbitration
+
+VIL
+Related to vehicle communication & integration, including BUS communication(CAN, FlexRay or LIN), Diagnostic, Human-Machine-Interface and varient coding

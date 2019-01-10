@@ -1,0 +1,28 @@
+Embedded C: 
+Storage classes in C 
+Difference between global and static variable 
+Structure and unions
+ Size of structure, 
+structure padding 
+Datatypes 
+Functions(call by value, call by reference) 
+Recursion and stack overflow with example 
+Pre-processors directives(macro) 
+C's memory map Execution of c program(flow chart) 
+Dynamic memory allocation 
+Typedef 
+Difference between #define and constant 
+Difference constant and volatile(Qualifiers) 
+Pointers(NULL, Wild, Dangling) 
+Endianness(little, Big) 
+Pointer arithmetic 
+Function pointers, 
+pointers and array 
+Basic C programs (reverse a number, palindrome, count no. of bits, find 2r0 largest no. in array, factorial, Fibonacci series, sum of digits etc etc) 
+
+
+General: 
+Basic automotive concepts(powertrain, transmission, cruise control, ABS etc. etc.) 
+
+- Different methods of software testing(black box, white box etc) and their types 
+V-model, Waterfall model etc. 
